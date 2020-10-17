@@ -28,6 +28,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blogs...](https://medium.com/@royhonders)
+
 <br />
 
 ---
