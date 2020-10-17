@@ -39,6 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [(small demo) Testing my receipt scanner](https://www.youtube.com/watch?v=SnzzjMLYWHA)
+- [Interview with Tim Ermilov about his YouTube carreer - Interviews #2](https://www.youtube.com/watch?v=3UX6U5Nam0g)
+- [Talk: Introduction to the GIT CLI in Maastricht, the Netherlands - Meetups #1](https://www.youtube.com/watch?v=gvrAhyHbOKw)
+- [Interview with Walker Case about starting out, learning and TTR - Interviews #1](https://www.youtube.com/watch?v=V7PPIl1nhf0)
+- [Gitlab CI/CD configuration using Docker and adnanh/webhook to deploy on VPS - Tutorial #1](https://www.youtube.com/watch?v=Qhn-lXjyrZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCH4XJf2BZ_52fbf8fOBMF3w)
