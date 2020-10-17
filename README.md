@@ -26,6 +26,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidden feature on Dev.to that motivates people to stay active](https://dev.to/veslav3/hidden-feature-on-dev-to-that-motivates-people-to-stay-active-8lp)
+- [What I have learned from the book "Javascript Grammar II" by @js_tut](https://dev.to/veslav3/what-i-have-learned-from-this-book-43k3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blogs...](https://medium.com/@royhonders)
