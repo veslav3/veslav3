@@ -21,6 +21,7 @@
 
 <br />
 ---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -28,6 +29,7 @@
 
 <br />
 ---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
