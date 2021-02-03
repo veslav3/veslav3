@@ -26,6 +26,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flash around your AWS badge of honor.](https://dev.to/veslav3/flash-around-your-aws-badge-of-honor-1cdn)
 - [Hidden feature on Dev.to that motivates people to stay active](https://dev.to/veslav3/hidden-feature-on-dev-to-that-motivates-people-to-stay-active-8lp)
 - [What I have learned from the book "Javascript Grammar II" by @js_tut](https://dev.to/veslav3/what-i-have-learned-from-this-book-43k3)
 <!-- BLOG-POST-LIST:END -->
