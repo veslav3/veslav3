@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Roy Honders but I'm also known as Veslav on the internet. 
 
-- 🔭 I’m currently working on [<img alt="soundshare" width="22px" src="https://soundshare.net/favicon.ico" /> SoundShare](https://soundshare.net/).
+- 🔭 I’m currently working on a few different projects. Feel free to ask me about them.
 - 🌱 I’m currently learning Advanced Angular concepts & AWS.
 - 💬 Ask me about Angular, JS and Google Cloud.
 - 📫 How to reach me: Check my [website][website].
